@@ -5,9 +5,13 @@
 
 * I'm a Freelance Full Stack Developer, with passion for programming and user experience
 * I can help you build your website
+* 🔭 I’m currently working on site project
 * My background is in Psychology which bring perspective on user experience
 * Tech enthusiast: I love writing code and solving problems
-* I'm open to collaborate with you
+* 🌱 I’m currently learning backend dev
+* 💬 Ask me about coding, psychology or create a brand
+* * 👯 I’m looking to collaborate on React projects. I'm open to collaborate with you
+* 🤔 I’m looking for help with and Design
 * **My Goal:** Develop innovative applications that solve problems for our customers providing technology solutions 
 * Psychocreativity Postgraduate, Clinical Psychology and Content Creator
 
@@ -47,15 +51,9 @@
 Let's talk.
 
 ## Contact me on
-[LinkedIn](https://www.linkedin.com/in/geraldinealattrach/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/geraldinealattrach/)
 ## Created by 
 Geraldine Hernandez Al Attrach
 
-- 🔭 I’m currently working on site project
-- 🌱 I’m currently learning backend dev
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: 
+- ⚡ Fun fact: <3
