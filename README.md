@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Geraldine known as chicacode. 
+## I'm Geri known as chicacode. 
 ## Welcome to my portfolio!
 
 * I'm a Freelance Full Stack Developer, with passion for programming and user experience
