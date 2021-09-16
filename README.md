@@ -3,7 +3,7 @@
 ## I'm Geri known as chicacode. 
 ## Welcome to my portfolio!
 
-* I'm a Freelance Full Stack Developer, with passion for programming and user experience
+* I'm a Full Stack Developer, with passion for programming and user experience
 * I can help you build your website
 * 🔭 I’m currently working on site project
 * My background is in Psychology which bring perspective on user experience
