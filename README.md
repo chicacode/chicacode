@@ -51,7 +51,9 @@
 Let's talk.
 
 ## Contact me on
-- 📫 How to reach me: ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/geraldinealattrach/)
+- 📫 How to reach me: 
+- ![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white) 
+- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white): (https://www.linkedin.com/in/geraldinealattrach/)
 ## Created by 
 Geraldine Hernandez Al Attrach
 
