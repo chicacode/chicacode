@@ -23,15 +23,14 @@
 * Enjoying learning new things everyday
 * Go out with friends and sometimes watch TV shows
 
-## Stack Technology & Tools
+## Stack Technology | Tools | Technical Skills
 
 * ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) - HTML structure web apps!
 * ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)- Awesome
 * ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-* [SASS] - Faster
-* [JavaScript] - Always for the web
-* [jQuery] - Duh
-* [React] - FB
+* ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) - Faster
+* ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) - Always for the web
+* ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) - FB
 * [TypeScript] - Baby C#
 * [Angular] - Google
 * [NodeJs] - Runtime built on Chrome V8 Js engine
