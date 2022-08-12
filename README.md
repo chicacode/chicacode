@@ -52,9 +52,9 @@ Let's talk.
 
 ## Contact me on
 - 📫 How to reach me: 
-- ![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white): https://linktr.ee/chicacode
-- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white): (https://www.linkedin.com/in/geraldinealattrach/)
-- ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white): https://www.instagram.com/chicacode/
+- ![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white) https://linktr.ee/chicacode
+- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) (https://www.linkedin.com/in/geraldinealattrach/)
+- ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) https://www.instagram.com/chicacode/
 ## Created by 
 Geraldine Hernandez Al Attrach
 
