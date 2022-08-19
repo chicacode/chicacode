@@ -5,23 +5,22 @@
 
 * I'm a Full Stack Developer, with passion for programming and user experience
 * I can help you build your website
-* 🔭 I’m currently working on site project
+* 🔭 I’m currently working on VR Mental health project on the website
 * My background is in Psychology which bring perspective on user experience
 * Tech enthusiast: I love writing code and solving problems
-* 🌱 I’m currently learning backend dev
+* 🌱 I’m currently learning backend dev and UI tools
 * 💬 Ask me about coding, psychology or create a brand
 * * 👯 I’m looking to collaborate on React projects. I'm open to collaborate with you
-* 🤔 I’m looking for help with and Design
 * **My Goal:** Develop innovative applications that solve problems for our customers providing technology solutions 
 * Psychocreativity Postgraduate, Clinical Psychology and Content Creator
 
 ## My Hobbies
 
 * Build sites
-* Create content for Youtube **(chicacode)** and IG helping people with coding tips
+* Create content for Youtube **(chicacode)** / TikTok & Instagram helping people with coding tips
 * Workout & Mindfulness having a healthy mind and a healthy body
 * Enjoying learning new things everyday
-* Go out with friends and sometimes watch TV shows
+* Go out with friends, hiking, go to the beach and read and watch TV shows
 
 ## Stack Technology | Tools | Technical Skills
 
@@ -57,5 +56,5 @@ Let's talk.
 ## Created by 
 Geraldine Hernandez Al Attrach
 
-- 😄 Pronouns: 
+- 😄 Pronouns: Geri
 - ⚡ Fun fact: <3
