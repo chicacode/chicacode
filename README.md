@@ -3,6 +3,8 @@
 ## I'm Geri known as chicacode. 
 ## Welcome to my portfolio!
 
+img src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="40" height="40" />
+
 * I'm a Full Stack Developer, with passion for programming and user experience
 * I can help you build your website
 * 🔭 I’m currently working on VR Mental health platform developing the Front End part of the product
