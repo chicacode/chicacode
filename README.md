@@ -5,8 +5,7 @@
 
 ![grab-landing-page](https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif)
 
-* I'm a Full Stack Developer, with passion for programming and user experience
-* I can help you build your website
+* I'm a Front End Developer, with passion for programming and user experience
 * 🔭 I’m currently working on VR Mental health platform developing the Front End part of the product
 * My background is in Psychology which bring perspective on user experience
 * Tech enthusiast: I love writing code and solving problems
