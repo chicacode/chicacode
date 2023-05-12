@@ -3,6 +3,8 @@
 ## I'm Geri known as chicacode. 
 ## Welcome to my portfolio!
 
+[![CHICACODE’s GitHub stats](https://github-readme-stats.vercel.app/api?username=chicacode)](https://github.com/chicacode/github-readme-stats)
+
 ![grab-landing-page](https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif)
 
 * I'm a Front End Developer, with passion for programming and user experience
