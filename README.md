@@ -3,27 +3,25 @@
 ## I'm Geri known as chicacode. 
 ## Welcome to my portfolio!
 
-[![CHICACODE’s GitHub stats](https://github-readme-stats.vercel.app/api?username=chicacode)](https://github.com/chicacode/github-readme-stats)
 
 ![grab-landing-page](https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif)
 
-* I'm a Front End Developer, with passion for programming and user experience
-* 🔭 I’m currently working on VR Mental health platform developing the Front End part of the product
-* My background is in Psychology which bring perspective on user experience
-* Tech enthusiast: I love writing code and solving problems
-* 🌱 I’m currently learning backend dev and UI tools
-* 💬 Ask me about coding, psychology or create a brand
-* * 👯 I’m looking to collaborate on React projects. I'm open to collaborate with you
-* **My Goal:** Develop innovative applications that solve problems for our customers providing technology solutions 
-* Psychocreativity Postgraduate, Clinical Psychology and Content Creator
+* I'm a Front End Developer, with a passion for problem-solving, communication, testing and programming and user experience.
+* 🔭 I’m currently learning AI, and continuing to improve my  Front End - Problem-solving skills.
+* My background is in Psychology, which brings a  perspective on user experience.
+* Tech enthusiast: I love writing code and solving problems.
+* 💬 Ask me about coding, psychology or create a brand.
+
+* **My Goal:** Develop innovative applications that solve problems for our customers, providing technology solutions.
+* Psychocreativity Postgraduate, Master's in Psychocreativity, Web Dev Diploma in Vancouver, Canada and Content Creator on Social Media.
 
 ## My Hobbies
 
 * Build sites
 * Create content for Youtube **(chicacode)** / TikTok & Instagram helping people with coding tips
-* Workout & Mindfulness having a healthy mind and a healthy body
-* Enjoying learning new things everyday
-* Go out with friends, hiking, go to the beach and read and watch TV shows
+* Workout & Mindfulness - Pilates: having a healthy mind and a healthy body
+* Enjoying learning new things every day
+* Go out with friends, hiking, go to the beach and read and watch streaming shows.
 
 ## Stack Technology | Tools | Technical Skills
 
@@ -35,7 +33,6 @@
 * ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) - FB
 * ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 * ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) - Baby C#
-* ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) - Google
 * ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) - Runtime built on Chrome V8 Js engine
 * ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) - No relational
 * ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)- Relationals
