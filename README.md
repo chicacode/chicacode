@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-## I'm Geri known as chicacode. 
+## I'm Geri, known as Chicacode on the Internet. 
 ## Welcome to my portfolio!
 
 
 ![grab-landing-page](https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif)
 
 * I'm a Front End Developer, with a passion for problem-solving, communication, testing and programming and user experience.
-* 🔭 I’m currently learning AI, and continuing to improve my  Front End - Problem-solving skills.
+* 🔭 I’m currently learning LLMs and ML, and continuing to improve my  Front End - Problem-solving skills.
 * My background is in Psychology, which brings a  perspective on user experience.
 * Tech enthusiast: I love writing code and solving problems.
 * 💬 Ask me about coding, psychology or create a brand.
