@@ -60,4 +60,4 @@ Let's talk.
 Geraldine Hernandez Al Attrach
 
 - 😄 Pronouns: Geri
-- ⚡ Fun fact: <3
+- ⚡ Fun fact: I love coconuts 🌴 water 💧 
